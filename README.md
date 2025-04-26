@@ -2,7 +2,7 @@
 <h3 align="center">BBA/MSBA Student at Emory University - Goizueta Business School</h3>
 
 
-- 🌱 I’m currently learning: **Large Language Models**
+- 🌱 I’m currently learning: **Network Graphs and Analytics**
 
 - 💬 Ask me about: **Marketing and Data Analytics**
 
