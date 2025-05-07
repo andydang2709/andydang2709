@@ -2,9 +2,9 @@
 <h3 align="center">BBA/MSBA Student at Emory University - Goizueta Business School</h3>
 
 
-- 🌱 I’m currently learning: **Network Graphs and Analytics**
+- 🌱 I’m currently learning: **Recommender System**
 
-- 💬 Ask me about: **Marketing and Data Analytics**
+- 💬 Ask me about: **Data Analytics**
 
 - 📫 Feel free to email me at: **andykhangdang@gmail.com**
 
