@@ -1,6 +1,5 @@
 <h1 align="center">ANDY DANG</h1>
-<h3 align="center">BBA/MSBA Student at Emory University - Goizueta Business School</h3>
-
+<h3 align="center">Data Analyst | Business Intelligence</h3>
 
 - 🌱 I’m currently learning: **Recommender System**
 
