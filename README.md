@@ -39,3 +39,79 @@ I turn messy data into clear insights, scalable dashboards, and decisions leader
     <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Work that I've done:</h3>
+
+### 🏥 Patient Health Trends, Utilization & Cost Drivers (Healthcare Analytics)
+🔗 **Live Dashboard:** https://public.tableau.com/app/profile/andy.dang6651/viz/PatientHealthTrendsandOutcomes/ConditionsOutcomes  
+🛠 **Tools:** SQL, Python, Tableau, Data Visualization, Population Health Analytics
+
+- Built an interactive healthcare analytics dashboard analyzing population health trends, risk segmentation, and utilization drivers
+- Identified **moderate-risk patients as highest utilization segment**, highlighting key intervention opportunities for cost reduction
+- Analyzed relationships between chronic conditions, behavioral health, and preventive care gaps to explain downstream healthcare costs
+- Delivered executive-level insights supporting early intervention, preventive care investment, and risk stratification strategies
+
+**Business Impact:** Demonstrates how data-driven population health management can reduce avoidable utilization and improve long-term outcomes.
+
+---
+
+### 💳 Banking Customer Segmentation Dashboard
+🔗 **Live Dashboard:** https://public.tableau.com/app/profile/andy.dang6651/viz/BankingCustomerDashboard_17135384860210/Dashboard1  
+🛠 **Tools:** Tableau, Customer Segmentation, BI Dashboard Design
+
+- Built interactive dashboard segmenting customers by net worth and purchase likelihood to guide targeted marketing
+- Identified high-value, low-risk customer segments to optimize campaign ROI
+- Designed drill-down views and dynamic filters for exploration by age, loyalty level, and segment
+
+**Business Impact:** Enables data-driven customer targeting and marketing prioritization.
+
+---
+
+### ❤️ TAPS Survivor Journey Segmentation (Time-Series + LLM Analytics)
+🔗 **Repository:** https://github.com/andydang2709/data4good  
+🛠 **Tools:** Python, Time-Series Clustering, NLP, GPT Models
+
+- Partnered with the Tragedy Assistance Program for Survivors (TAPS) to segment grief journeys of military loss survivors
+- Classified 22K+ interaction records using GPT-based stage detection and time-series clustering
+- Identified 6 survivor personas to enable personalized care programs and proactive support strategies
+- Built predictive framework for future stage progression and engagement optimization
+
+**Impact:** Improved personalization of support services and survivor outcome prediction.
+
+---
+
+### 📈 WIOA Workforce Program Impact Evaluation (Causal Inference)
+🔗 **Repository:** https://github.com/andydang2709/data4hope  
+🛠 **Tools:** Python, Synthetic Control Models, Statistical Analysis, Public Data
+
+- Evaluated impact of Workforce Innovation and Opportunity Act (WIOA) training programs across 17 regions
+- Built synthetic control models using American Community Survey (ACS) data to estimate counterfactual wage outcomes
+- Quantified regional performance differences and identified high-impact training areas
+- Delivered insights for resource allocation and policy decision-making
+
+**Business Impact:** Supports evidence-based workforce funding and program optimization.
+
+---
+
+### 💹 Options Pricing with Machine Learning
+🔗 **Repository:** https://github.com/andydang2709/options_pricing  
+🛠 **Tools:** Python, Random Forest, XGBoost, LightGBM, Financial Modeling
+
+- Built machine learning models to improve pricing accuracy beyond Black-Scholes baseline
+- Trained models on **18.8M+ options records** from S&P 500 companies
+- Achieved **81.6% improvement in prediction accuracy** over traditional models
+- Engineered features including volatility, Greeks, and time-to-expiration for time-series prediction
+
+**Impact:** Demonstrates large-scale modeling and predictive analytics capability.
+
+---
+
+### 🏢 Business Accreditation Prediction (Better Business Bureau)
+🔗 **Repository:** https://github.com/andydang2709/DataThink-2024  
+🛠 **Tools:** Python, Classification Modeling, Data Cleaning
+
+- Built predictive model to identify businesses likely to qualify for accreditation
+- Filtered eligible companies and predicted owner demographics
+- Developed classification framework to support accreditation decision-making
+
+**Business Impact:** Improves operational efficiency and business evaluation processes.
