@@ -30,11 +30,11 @@ I focus on **impact, clarity, and real-world decision making — not just models
 
 ## 🛠 Core Skills
 
-**Languages:** Python, SQL  
-**BI Tools:** Tableau, Power BI  
+**Languages:** Python, SQL, JavaScript, R
+**BI Tools:** Tableau, Power BI, Amazon Quick Sight, Git
 **Data:** ETL, Data Modeling, Data Cleaning, Data Pipelines  
 **Analytics:** Segmentation, Forecasting, Causal Inference, Time-Series, Machine Learning  
-**Cloud:** AWS  
+**Cloud:** AWS, Databricks
 
 ---
 
