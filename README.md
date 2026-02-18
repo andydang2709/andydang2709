@@ -49,19 +49,8 @@ https://public.tableau.com/views/PatientHealthTrendsandOutcomes/Cover?:language=
 🔗 Data Pipeline & SQL Repo  
 https://github.com/andydang2709/healthcare-patient-data  
 
-**What I Built**
-- End-to-end healthcare analytics pipeline from JSON → structured tables → SQL → dashboard
-- Population health dashboard analyzing utilization, risk segmentation, and cost drivers
-- Processed semi-structured healthcare data into analysis-ready datasets
-
-**Key Insights**
-- Identified **moderate-risk patients as highest utilization segment**
-- Linked chronic conditions and preventive care gaps to downstream costs
-
-**Business Impact**
-→ Supports population health management and cost reduction strategies
-
-**Tools:** SQL, Python, SQLite, Tableau
+**Summary**
+Built an end-to-end healthcare analytics pipeline and interactive dashboard to analyze population health trends, risk segmentation, and drivers of healthcare utilization. The project demonstrates how data engineering and analytics support cost reduction and preventive care strategy.
 
 ---
 
@@ -71,14 +60,8 @@ https://github.com/andydang2709/healthcare-patient-data
 🔗 Live Dashboard  
 https://public.tableau.com/app/profile/andy.dang6651/viz/BankingCustomerDashboard_17135384860210/Dashboard1  
 
-**What I Built**
-- Customer segmentation dashboard by net worth and purchase likelihood
-- Interactive drill-down views and dynamic filters
-
-**Impact**
-→ Enables targeted marketing and improved campaign ROI
-
-**Tools:** Tableau
+**Summary**
+Developed an interactive customer segmentation dashboard to identify high-value customer groups and support data-driven marketing strategy. Enables targeted engagement and improved campaign decision-making.
 
 ---
 
@@ -88,15 +71,8 @@ https://public.tableau.com/app/profile/andy.dang6651/viz/BankingCustomerDashboar
 🔗 Repository  
 https://github.com/andydang2709/data4good  
 
-**What I Built**
-- GPT-based classification of 22K+ interaction records
-- Time-series clustering of survivor journeys
-- Predictive engagement framework
-
-**Impact**
-→ Personalized care programs and proactive support strategies
-
-**Tools:** Python, NLP, Time-Series, GPT Models
+**Summary**
+Segmented survivor engagement journeys using time-series and NLP methods to identify behavioral patterns and support personalized care programs. Helps organizations improve support delivery and predict future engagement needs.
 
 ---
 
@@ -106,14 +82,8 @@ https://github.com/andydang2709/data4good
 🔗 Repository  
 https://github.com/andydang2709/data4hope  
 
-**What I Built**
-- Synthetic control models across 17 regions
-- Counterfactual wage outcome estimation
-
-**Impact**
-→ Evidence-based workforce funding decisions
-
-**Tools:** Python, Statistical Modeling
+**Summary**
+Evaluated the impact of workforce training programs using causal inference methods to measure regional outcomes and effectiveness. Provides data-driven insights for policy decisions and resource allocation.
 
 ---
 
@@ -123,11 +93,8 @@ https://github.com/andydang2709/data4hope
 🔗 Repository  
 https://github.com/andydang2709/options_pricing  
 
-**Impact**
-- 81.6% improvement over Black-Scholes baseline
-- Trained on 18.8M+ records
-
-**Tools:** Python, Random Forest, XGBoost, LightGBM
+**Summary**
+Built machine learning models to improve financial options pricing accuracy and enhance predictive performance beyond traditional approaches. Demonstrates large-scale modeling and quantitative analysis capability.
 
 ---
 
