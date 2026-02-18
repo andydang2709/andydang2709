@@ -12,8 +12,6 @@ I specialize in:
 - 📈 **Business performance and analytics**
 - ⚙️ **SQL + Python + BI dashboards**
 
-Previously built AWS-powered data pipelines at Amazon and delivered executive-ready analytics supporting strategic decisions.
-
 I focus on **impact, clarity, and real-world decision making — not just models.**
 
 ---
