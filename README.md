@@ -1,5 +1,5 @@
 <h1 align="center">Andy Dang</h1>
-<h3 align="center">Data Analyst | Business Intelligence</h3>
+<h3 align="center">Data Analyst | Business Intelligence | Analytics Engineer</h3>
 
 ---
 
