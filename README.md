@@ -43,7 +43,7 @@ I turn messy data into clear insights, scalable dashboards, and decisions leader
 <h3 align="left">Featured Projects:</h3>
 
 ### 🏥 Patient Health Trends, Utilization & Cost Drivers (Healthcare Analytics)
-🔗 <strong>Live Dashboard:</strong> https://public.tableau.com/app/profile/andy.dang6651/viz/PatientHealthTrendsandOutcomes/ConditionsOutcomes  
+🔗 <strong>Live Dashboard:</strong> https://public.tableau.com/views/PatientHealthTrendsandOutcomes/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 🔗 <strong>Data Pipeline & SQL Repo:</strong> https://github.com/andydang2709/healthcare-patient-data  
 🛠 <strong>Tools:</strong> SQL, Python, SQLite, Tableau, Data Engineering, Population Health Analytics
 
